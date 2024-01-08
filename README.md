@@ -13,3 +13,5 @@ Task Filtering: It has a filtering mechanism that enables the user to view all t
 Interface Responsiveness: The application's interface is designed to adapt to different screen sizes and devices, ensuring a consistent user experience. Additionally, the app is multi-platform, functioning across various operating systems.
 
 Dynamic Updating: The interface is dynamically updated as actions are performed, such as adding, editing, or deleting tasks, ensuring that changes are instantly reflected in the user interface.
+
+![image](https://github.com/devbittencourt/ToDo_app/assets/124898684/ed610208-a353-411e-904f-fa3174c0068b)
